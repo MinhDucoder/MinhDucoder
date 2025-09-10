@@ -11,12 +11,18 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 👨‍💻 Passionate **Full Stack Developer** with a focus on building scalable and user-friendly applications  
-- 🌱 Currently diving deeper into **Advanced JavaScript**, **Data Structures & Algorithms**  
-- 💬 Open to discussions about **Web Development, C++, and Java**  
-- 🎯 2024 Goal: **Contribute actively to Open Source projects** and grow within the developer community  
-- ⚡ Fun fact: I believe *“Impossible = I’m possible”* ✨  
-- 📫 Reach me at: **minhducoder.official@gmail.com**
+👋 Hi, I'm **MinhDucoder** – a passionate **Web Developer** who loves turning ideas into interactive and user-friendly applications.  
+
+- 🌱 Currently learning **Advanced JavaScript, React, and Backend Development**  
+- 💻 Skilled in **HTML, CSS, JavaScript, C++, Java, and Python**  
+- 🔍 Interested in building scalable **Full Stack Web Applications**  
+- 🤝 Excited to collaborate on **Open Source** and team projects  
+- ⚡ Fun fact: I believe *"Clean code is better than clever code"*  
+- 🎯 Goal: Grow into a professional Full Stack Developer and contribute to impactful projects  
+- 📫 Reach me at **minhducyberxdev@gmail.com**  
+
+✨ *Always curious. Always learning. Always coding.*  
+
 
 <br clear="right"/>
 
